@@ -5,6 +5,5 @@ impartido a profesores y estudiantes de posgrado de la UAM Iztapalapa
 
 Para ello es necesario una cuenta en el github
 
-mas detalles de cómo crear una cuenta consultar
-https://guides.github.com/activities/hello-world/
+mas detalles de cómo crear una cuenta consultar la pagina de ayuda del [Github](https://guides.github.com/activities/hello-world/)
 
